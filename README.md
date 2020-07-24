@@ -1,6 +1,7 @@
 # Predicting Miles Per Gallon
 
-Just a sample ML application on a toy dataset wrapped in a Docker container.
+Machine Learning Deployment Using Docker and Kubernetes.
+
 
 An example of input to Flask service in main.py:
 
