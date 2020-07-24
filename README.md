@@ -56,3 +56,7 @@ An example of input to Flask service in main.py:
     "car_name": "chevrolet chevelle malibu"
 }
 ```
+
+
+### Reference
+https://github.com/casperbh96/MilesPerGallonPrediction
